@@ -1,4 +1,4 @@
-package io.whitepaek;
+package io.whitepaek.hello;
 
 import org.springframework.stereotype.Component;
 

@@ -1,5 +1,6 @@
-package io.whitepaek;
+package io.whitepaek.hello;
 
+import io.whitepaek.hello.HelloController;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
