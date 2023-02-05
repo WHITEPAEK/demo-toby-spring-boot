@@ -1,0 +1,2 @@
+io.whitepaek.config.autoconfig.TomcatWebServerConfig
+io.whitepaek.config.autoconfig.DispatcherServletConfig
