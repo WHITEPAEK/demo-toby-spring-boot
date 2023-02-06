@@ -1,3 +1,4 @@
+io.whitepaek.config.autoconfig.DataSourceConfig
 io.whitepaek.config.autoconfig.PropertyPostProcessorConfig
 io.whitepaek.config.autoconfig.PropertyPlaceholderConfig
 io.whitepaek.config.autoconfig.TomcatWebServerConfig
