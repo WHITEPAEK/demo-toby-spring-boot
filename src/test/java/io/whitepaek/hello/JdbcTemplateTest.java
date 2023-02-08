@@ -17,7 +17,6 @@ public class JdbcTemplateTest {
         jdbcTemplate.execute("create table if not exists member(name varchar(50) primary key, count int)");
     }
 
-
     @Test
     void insertAndQuery() {
         jdbcTemplate.update("insert into member values(?, ?)", "Toby", 3);
