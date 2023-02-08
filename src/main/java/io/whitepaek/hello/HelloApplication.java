@@ -1,12 +1,12 @@
 package io.whitepaek.hello;
 
-import io.whitepaek.config.MySpringBootApplication;
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 import javax.annotation.PostConstruct;
 
-@MySpringBootApplication
+@SpringBootApplication
 public class HelloApplication {
 
     private final JdbcTemplate jdbcTemplate;
@@ -21,7 +21,6 @@ public class HelloApplication {
     }
 
     public static void main(String[] args) {
-        // Spring Container
         SpringApplication.run(HelloApplication.class, args);
     }
 

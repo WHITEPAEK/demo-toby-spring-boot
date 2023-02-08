@@ -1,6 +1,0 @@
-io.whitepaek.config.autoconfig.DataSourceConfig
-io.whitepaek.config.autoconfig.PropertyPostProcessorConfig
-io.whitepaek.config.autoconfig.PropertyPlaceholderConfig
-io.whitepaek.config.autoconfig.TomcatWebServerConfig
-io.whitepaek.config.autoconfig.JettyWebServerConfig
-io.whitepaek.config.autoconfig.DispatcherServletConfig
